@@ -1,7 +1,7 @@
 ---
 title: Hello World
 permalink: "/"
-layout: page
+layout: home
 ---
 <img src="/assets/me.jpg" class="img-fluid" width="200"/>
 
